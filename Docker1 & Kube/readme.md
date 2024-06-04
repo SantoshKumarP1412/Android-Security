@@ -1,4 +1,3 @@
-For the following task refer the link 1
 * Create and use a Docker container interactively
 * Create a Dockerfile, which allows you to declaratively define your containers
 * Run detached containers and understand port forwarding
@@ -141,3 +140,25 @@ A docker-compose.yml file is written which would glue the above NodeJS container
 We open browser at http://localhost:80.
 
 ![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/430f0bcd-d703-4d6f-964e-0288c6fd696a)
+
+
+
+
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/6fd47428-8694-4e6c-92ca-1cf10208d007)
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/16f00b20-4f8f-4518-b046-085c4b0aabfe)
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/5e4832ea-54b0-4360-a6e4-d5a1d19c4b92)
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/4c86f051-e180-43fe-9126-481974dd26a5)
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/c7677b27-5c8e-4b45-8d27-f0e19fef0989)
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/878bde18-9276-42fb-aea9-bd8ac7129c19)
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/13f2f320-3b8f-4a64-a816-ea0c04a1687c)
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/e1be4ef5-b843-4f55-b1ba-9a6e69fdfc8a)
+
+![image](https://github.com/jayshah17/Secure-System-Engineering-/assets/76842630/3f9205bb-f3c9-4de0-a635-bbaae0fe65e3)
