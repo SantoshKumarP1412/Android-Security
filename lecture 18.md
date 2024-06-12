@@ -1,4 +1,4 @@
-How machine learning is utilized for malware detection:
+-How machine learning is utilized for malware detection:
 
 Machine learning can be used for malware detection in Android by training models to recognize patterns and features indicative of malicious behaviour. Here's a short explanation of the process:
 
